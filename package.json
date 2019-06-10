@@ -1,6 +1,6 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "WebProject",
+    "name": "201804001",
     "version": "5.0.6",
     "scripts": {
         "start": "gulp watch"
